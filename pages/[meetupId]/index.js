@@ -1,3 +1,4 @@
+import Head from "next/head";
 import MeetupDetail from "../../components/meetups/MeetupDetail";
 import { ObjectId, MongoClient } from "mongodb";
 
